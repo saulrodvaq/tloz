@@ -1,0 +1,53 @@
+C:\Users\kissg\OneDrive\Bureau\personal\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\kissg\OneDrive\Bureau\personal\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\kissg\OneDrive\Bureau\personal\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\kissg\OneDrive\Bureau\personal\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\kissg\OneDrive\Bureau\personal\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\kissg\OneDrive\Bureau\personal\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\kissg\OneDrive\Bureau\personal\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Resources.resources
+C:\Users\kissg\OneDrive\Bureau\personal\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\kissg\OneDrive\Bureau\personal\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kissg\OneDrive\Bureau\personal\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\kissg\OneDrive\Bureau\personal\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\kissg\OneDrive\Bureau\personal\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\kissg\OneDrive\Bureau\personal\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\kissg\OneDrive\Bureau\personal\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\kissg\OneDrive\Bureau\personal\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\kissg\OneDrive\Bureau\personal\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\kissg\OneDrive\Bureau\personal\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\kissg\OneDrive\Bureau\personal\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Zelda.resources
+C:\Users\kissg\OneDrive\Bureau\uni(backup)\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\kissg\OneDrive\Bureau\uni(backup)\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\kissg\OneDrive\Bureau\uni(backup)\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\kissg\OneDrive\Bureau\uni(backup)\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\kissg\OneDrive\Bureau\uni(backup)\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\kissg\OneDrive\Bureau\uni(backup)\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\kissg\OneDrive\Bureau\uni(backup)\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Zelda.resources
+C:\Users\kissg\OneDrive\Bureau\uni(backup)\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Resources.resources
+C:\Users\kissg\OneDrive\Bureau\uni(backup)\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\kissg\OneDrive\Bureau\uni(backup)\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kissg\OneDrive\Bureau\uni(backup)\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\kissg\OneDrive\Bureau\uni(backup)\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\kissg\OneDrive\Bureau\uni(backup)\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\kissg\OneDrive\Bureau\uni(backup)\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\kissg\OneDrive\Bureau\uni(backup)\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\kissg\OneDrive\Bureau\uni(backup)\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\kissg\OneDrive\Bureau\uni(backup)\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\kissg\OneDrive\Bureau\uni(backup)\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\kissg\OneDrive\Bureau\uni\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\kissg\OneDrive\Bureau\uni\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Zelda.resources
+C:\Users\kissg\OneDrive\Bureau\uni\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\kissg\OneDrive\Bureau\uni\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\kissg\OneDrive\Bureau\uni\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\kissg\OneDrive\Bureau\uni\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\kissg\OneDrive\Bureau\uni\TSU\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\kissg\OneDrive\Bureau\uni\TSU\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Zelda.resources
+C:\Users\kissg\OneDrive\Bureau\uni\TSU\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\kissg\OneDrive\Bureau\uni\TSU\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\kissg\OneDrive\Bureau\uni\TSU\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\kissg\OneDrive\Bureau\uni\TSU\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\kissg\OneDrive\Bureau\uni\TSU\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Resources.resources
+C:\Users\kissg\OneDrive\Bureau\uni\TSU\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kissg\OneDrive\Bureau\uni\TSU\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\kissg\OneDrive\Bureau\uni\TSU\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\kissg\OneDrive\Bureau\uni\TSU\CUATRI 5\Aplicaciones para IoT\Parcial 3\Proyecto - Zelda en Visual Basic\Zelda\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
